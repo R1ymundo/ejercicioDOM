@@ -21,4 +21,4 @@ git push origin main
 
 >Vista previa del index.html
 
-![index](https://github.com/R1ymundo/ejercicioDOM/blob/main/images/index.jpg?raw=true)
+![index](https://github.com/R1ymundo/ejercicioDOM/blob/main/images/actualizacion_index.jpg?raw=true)
